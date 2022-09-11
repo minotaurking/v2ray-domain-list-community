@@ -13,7 +13,9 @@ include:dazn
 include:deviantart
 include:discoveryplus
 include:disney
+include:dlsite
 include:goodreads
+include:hamivideo
 include:hbo
 include:hulu
 include:imdb
@@ -45,6 +47,7 @@ include:visualarts
 include:viu
 include:volmoe
 include:wwe
+include:z-library
 include:zeetv
 
 blubrry.com
@@ -52,6 +55,7 @@ castro.fm
 egta.com
 fireside.fm
 gbnews.uk
+gimy.cc
 internationalsaimoe.com
 joox.com
 linetv.tw
