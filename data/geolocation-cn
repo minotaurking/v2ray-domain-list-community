@@ -3,16 +3,12 @@
 # 123云盘
 123pan.com
 
-#一起作业
-17zuoye.cn
-17zuoye.net
-17zuoye.com
-
 # Advertisment & Analytics
 include:jiguang
 include:umeng
 
 # CDN companies & Services
+include:aws-cn
 include:baijiayun
 include:bootcdn
 include:bootcss
@@ -26,6 +22,7 @@ include:ucloud
 include:upai
 include:wangsu
 include:yunfanjiasu
+
 funcdn.com
 
 # Bank & Finance & Insurance & Securities
@@ -42,11 +39,11 @@ include:58tongcheng
 include:ctrip
 include:dangdang
 include:eleme
-include:ganji
 include:jd
 include:lianjia
 include:manmanbuy
 include:meituan
+include:miaomiaozhe
 include:mogujie
 include:pinduoduo
 include:smzdm
@@ -98,33 +95,36 @@ include:youku
 include:yy
 include:zhanqi
 
-# Food & Drink
-include:heytea
+wo1wan.com
 
 # Forums
 include:chiphell
-include:douban
 include:erji
 include:hacpai
 include:kechuang
 include:nga
 include:stage1st
-include:zhihu
+
+52pojie.cn # 吾爱破解
+itsk.com # IT天空论坛
+klpbbs.com # 苦力怕论坛
+mcbbs.net # MCBBS论坛
 
 # Fofa网站测绘
 fofa.info
 
-# itdog网站工具箱
-itdog.cn
+# 在线工具
+itdog.cn # itdog网站工具箱
+webmasterhome.cn # 站长之家
 
 # 快对作业
 kuaiduizuoye.com
 
-# 论坛
-52pojie.cn # 吾爱破解
-klpbbs.com # 苦力怕论坛
-mcbbs.net # MCBBS论坛
-itsk.com # IT天空论坛
+# IP 定位网站
+include:ipip
+
+ip138.com
+ipplus360.com # 豫ICP备17017462号-1 埃文科技
 
 # Logistics
 include:sf-express
@@ -163,7 +163,6 @@ include:flowus
 include:foundertype
 include:geetest
 include:hanyi
-include:ipip
 include:jianshu
 include:jinshuju
 include:keep
@@ -174,6 +173,7 @@ include:liepin
 include:mafengwo
 include:meitu
 include:moji
+include:nowcoder
 include:polyv
 include:renren
 include:vaptcha
@@ -183,41 +183,25 @@ include:wolai
 include:yinxiang
 include:zdns
 
-# Science & Technology & Knowledge & Scholar & Press & E-learning
+# Science & Technology & Knowledge & Scholar & Press & E-learning & Education
+include:category-education-cn
 include:category-mooc-cn
 include:category-scholar-cn
 include:category-wiki-cn
 include:cugbonline
 include:guokr
-include:hujiang
 include:ihuman
-include:koolearn
-include:shanbay
 include:wanfang
-include:xueersi
-include:yuanfudao
-include:zhihuishu
 
 # Social Media
 include:category-social-media-cn
 
 # Software development related
-include:coding
-include:csdn
-include:deepin
-include:gitee
-include:jinrishici
-include:juejin
-include:oschina
-include:pgyer
-include:rubychina
-include:sxl
-include:segmentfault
-include:tipdm
-include:xueyuanjun
+include:category-dev-cn
 
 # 信息学
 include:51nod
+
 acwing.com
 hihocoder.com
 jisuanke.com
@@ -248,6 +232,7 @@ include:xiaomi
 include:xunlei
 
 # Telecommunication
+include:chinabroadnet 
 include:chinamobile
 include:chinatelecom
 include:chinaunicom
@@ -267,7 +252,7 @@ qiuwen.wiki
 shidianbaike.com
 
 # 餐饮类
-haidilao.com
+include:category-food-cn
 
 # 流利说
 liulishuo.com
@@ -307,9 +292,7 @@ include:jibencaozuo
 include:sinopec
 include:category-enterprise-query-platform-cn
 
-# 优启通官网
-upe.net
-
+upe.net # 优启通官网
 suzuki-china.com # 铃木中国官网
 
 # The following domains are carried over from geosite:cn.
@@ -432,7 +415,6 @@ suzuki-china.com # 铃木中国官网
 900.la
 917.com
 91danji.com
-91yunxiao.com
 95508.com
 9553.com
 962.net
@@ -458,7 +440,6 @@ airchangan.com
 airguilin.com
 aisee.tv # 粤ICP备10217959号-12
 aiskycn.com
-aiyunxiao.com
 aizhan.com
 aldwx.com # 京ICP备17030349号-1
 alittle-tea.com
@@ -484,7 +465,6 @@ bamenzhushou.com
 bangongziyuan.com
 baofeng.com
 baoxianshichang.com
-bcy.net
 bearychat.com
 beihaidc.com
 beijing-lipin.com
@@ -564,8 +544,6 @@ cjol.com
 clouddn.com
 cloudxns.com
 cnanzhi.com
-cnbeta.com
-cnbetacdn.com
 cnblogs.com
 cnepub.com
 cnlaw.net
@@ -672,7 +650,6 @@ enterdesk.com
 eoeandroid.com
 eolink.com
 excelhome.net
-expreview.com
 extfans.com
 f.cx
 faloo.com
@@ -696,7 +673,6 @@ freebuf.com
 fugetech.com
 fuwj.com
 fxxz.com
-fyxz.com
 fzaqjy.com
 game234.com
 gameabc.com
@@ -708,14 +684,12 @@ gdjdxy.com
 gdliontech.com
 gdrc.com
 geilicdn.com
-genelinkout.com
 getui.com
 gezida.com
 gfan.com
 giocdn.com
 globrand.com
 gm86.com
-gmallbio.com
 gmz88.com
 gobasearcher.com
 gold678.com
@@ -807,7 +781,6 @@ infinitynewtab.com
 infoq.com
 infoqstatic.com
 ip-cdn.com
-ip138.com
 ipinyou.com
 iranshao.com
 irs01.com
@@ -819,7 +792,6 @@ iteye.com
 itjuzi.com
 itmop.com
 iyiou.com
-iyunxiao.com
 izuche.com
 jandan.net
 jb51.com
@@ -871,7 +843,6 @@ kankanews.com
 kantianqi.net
 kanzhun.com
 kaopu001.com
-keboyunxiao.com
 kejet.net
 kf5.com
 kimiss.com
@@ -1225,7 +1196,6 @@ webterren.com
 weicaifu.com
 weidian.com
 weilaicaijing.com
-weilaiyunxiao.com
 weiphone.net
 weixing.com
 weiyangx.com
@@ -1348,7 +1318,6 @@ yundun.com
 yunkanpan.com # 京ICP备15036006号-3
 yunqishi.net
 yunshipei.com
-yunxiao.com
 yunzhijia.com
 yupoo.com
 yuzua.com
