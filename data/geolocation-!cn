@@ -3,6 +3,9 @@
 # TLDs (Top Level Domains) used outside China mainland
 include:tld-!cn
 
+# Anime, Comics & Games
+include:category-acg
+
 # Advertisment & Analytics
 include:pubmatic
 include:taboola
@@ -65,9 +68,11 @@ include:freenode
 include:intercom
 include:line
 include:matrix
+include:messenger
 include:signal
 include:slack
 include:telegram
+include:whatsapp
 
 # Cryptocurrency
 include:category-cryptocurrency
@@ -152,7 +157,9 @@ include:category-porn
 include:falungong
 
 # Services & Softwares
+include:category-android-app-download
 include:category-browser-!cn
+include:decryptipastore # iOS
 
 include:accuweather
 include:adblock
@@ -160,8 +167,6 @@ include:adblockplus
 include:addthis
 include:addtoany
 include:adguard
-include:apkmirror
-include:apkpure
 include:aptoide
 include:arphic
 include:authy
@@ -248,6 +253,10 @@ include:zeplin
 include:zoho
 include:zoom
 
+# Online LaTeX Editor
+cloudlatex.io
+overleaf.com
+
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 auroraoss.com
 
@@ -277,6 +286,7 @@ include:wikidot
 include:wikihow
 include:wikimedia
 
+atwiki.jp
 touhouwiki.net
 
 # Others

@@ -6,9 +6,11 @@ include:category-ir-bourse
 include:category-ir-gov
 include:category-ir-insurance
 include:category-ir-media
+include:category-ir-news
 include:category-ir-payment
 include:category-ir-scholar
 include:category-ir-shopping
+include:category-ir-social-media
 include:category-ir-tech
 include:category-ir-travel
 
@@ -18,3 +20,7 @@ neshan.org
 
 # Sport
 varzesh3.com
+
+# Financial
+isignal.ir
+tgju.org

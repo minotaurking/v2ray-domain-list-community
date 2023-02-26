@@ -5,6 +5,7 @@ include:archlinux
 include:bootstrap
 include:braveux
 include:canonical
+include:category-container
 include:dart
 include:debian
 include:docker
@@ -74,6 +75,7 @@ codeberg.org
 cygwin.com
 cython.org
 deno.land
+dev.to
 elixir-lang.org
 elrepo.org
 erlang.org
@@ -140,6 +142,8 @@ termius.com
 unpkg.com
 videojs.com
 videolan.org
+wapm.io
+wasmer.io
 wireshark.org
 x.org
 xposed.info
