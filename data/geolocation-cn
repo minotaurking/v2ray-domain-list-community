@@ -62,6 +62,7 @@ include:acplay
 include:ali213
 include:bilibili
 include:ciweimao
+include:cowlevel
 include:dedao
 include:dmzj
 include:douyu
@@ -238,7 +239,7 @@ include:xiaomi
 include:xunlei
 
 # Telecommunication
-include:chinabroadnet 
+include:chinabroadnet
 include:chinamobile
 include:chinatelecom
 include:chinaunicom
