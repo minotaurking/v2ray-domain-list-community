@@ -251,6 +251,26 @@ google.vg
 google.vu
 google.ws
 
+# firebase
+firebase.com
+firebase.io
+firebaseapp.com
+firebaseio.com
+
+full:firebase-settings.crashlytics.com @cn
+full:firebase.google.com
+full:firebase.googleapis.com
+full:firebaseappcheck.googleapis.com
+full:firebasedynamiclinks-ipv4.googleapis.com
+full:firebasedynamiclinks-ipv6.googleapis.com
+full:firebasedynamiclinks.googleapis.com
+full:firebaseinappmessaging.googleapis.com
+full:firebaseinstallations.googleapis.com
+full:firebaselogging-pa.googleapis.com
+full:firebaselogging.googleapis.com
+full:firebaseperusertopics-pa.googleapis.com
+full:firebaseremoteconfig.googleapis.com
+
 # Others
 0emm.com
 1e100.net
@@ -320,8 +340,6 @@ episodic.com
 feedburner.com
 fflick.com
 financeleadsonline.com
-firebaseapp.com
-firebaseio.com
 foofle.com
 froogle.com
 fuchsia.dev
@@ -386,6 +404,7 @@ googlestore.com
 googlesverige.com
 googleusercontent.com
 googleventures.com
+googlezip.net
 googlr.com
 goolge.com
 gooogle.com
@@ -411,6 +430,7 @@ howtogetmo.co.uk
 html5rocks.com
 hwgo.com
 iamremarkable.org
+idx.dev
 igoogle.com
 impermium.com
 itasoftware.com
@@ -552,6 +572,7 @@ full:app-measurement-cn.com @cn
 full:app-measurement.com @cn
 full:apps5.oingo.com @cn
 full:avail.googleflights.net @cn
+full:beacons-handoff.gcp.gvt2.com @cn
 full:beacons.gcp.gvt2.com @cn
 full:beacons.gvt2.com @cn
 full:beacons2.gvt2.com @cn
@@ -589,7 +610,6 @@ full:download.qcpp1.net @cn
 full:download.qpdp1.net @cn
 full:download.tensorflow.google.com @cn
 full:emmapplecodevice.googleapis.com @cn
-full:firebase-settings.crashlytics.com @cn
 full:fontfiles.googleadapis.com @cn
 full:fontfiles.googleapis.com @cn
 full:fonts.googleadapis.com @cn

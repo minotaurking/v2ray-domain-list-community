@@ -28,12 +28,14 @@ include:huawei-dev
 include:intel-dev
 include:java
 include:jetbrains
+include:jetbrains-ai
 include:jfrog
 include:jsdelivr
 include:kubernetes
 include:microsoft-dev
 include:mongodb
 include:nginx
+include:openai
 include:openwrt
 include:osdn
 include:perl
@@ -46,6 +48,7 @@ include:redis
 include:remirepo
 include:ruby
 include:rust
+include:redhat
 include:scala
 include:stackexchange
 include:strikingly
@@ -61,6 +64,7 @@ include:xda
 adventofcode.com
 alpinelinux.org
 apache.org
+artixlinux.org
 atom.io
 badgen.net
 
@@ -112,7 +116,6 @@ mysql.com
 nixos.org
 nodesource.com
 notepad-plus-plus.org
-openai.com
 openresty.org
 openssl.org
 opensuse.org
@@ -150,3 +153,6 @@ x.org
 xposed.info
 yarnpkg.com
 zsh.org
+
+# Hugging Face official website.
+huggingface.co
