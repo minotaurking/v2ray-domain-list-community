@@ -124,7 +124,6 @@ include:vgtime
 include:xd
 include:xiaohongshu
 include:ximalaya
-include:yamibo
 include:youku
 include:yy
 include:zhanqi
@@ -147,6 +146,7 @@ klpbbs.com # 苦力怕论坛
 mcbbs.net # MCBBS论坛
 uiwow.com # 魔兽有爱论坛
 right.com.cn # 恩山论坛
+pcbeta.com # 远景论坛
 
 # Fofa网站测绘
 fofa.info
@@ -177,7 +177,13 @@ llscdn.com
 llsserver.com
 
 # 百词斩
-baicizhan.org
+baicizhan.com
+baicizhan.org  
+bczcdn.com     
+bczeducation.cn
+
+# 小站教育
+zhan.com
 
 # Burning Vocabulary
 burningvocabulary.cn
@@ -265,14 +271,25 @@ include:moji
 include:nowcoder
 include:polyv
 include:renren
+include:tendcloud
 include:vaptcha
 include:wiwide
 include:wjx
 include:wolai
 include:yinxiang
 include:zdns
+include:zhangtao
 
 mihuashi.com # 米畫師
+
+# Tower 团队协作
+tower.im
+
+# 沃丰科技
+udesk.cn
+
+# xEdge 苏州星汉云联网络技术有限公司 苏ICP备2022017953号-1
+xedge.cc
 
 # Social Media
 include:category-social-media-cn
@@ -292,18 +309,20 @@ include:huawei
 include:iflytek
 include:jushuitan
 include:kingsoft
+include:lenovo
 include:meizu
 include:netease
-include:nubia
 include:oppo
 include:oneplus
 include:qihoo360
 include:sina
 include:sogou
 include:tencent
+include:tongfang
 include:vivo
 include:xiaomi
 include:xunlei
+include:zte
 
 ezpro.pro # 小马路由
 
@@ -329,6 +348,13 @@ oi-wiki.com
 openjudge.cn
 uoj.ac
 vijos.org
+
+# LeetCode 中国站
+leetcode.cn
+leetcode-cn.com
+lingkou.xyz
+lingkou.com
+lingkou.cn
 
 # 语言能力测试
 include:j-test
@@ -375,6 +401,13 @@ include:bjyouth
 include:sumkoo
 ## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
 zzdtec.com
+
+# 祐全科技
+include:youquan
+# 叮哒出行(杭州金通互联科技有限公司)
+include:dingdatech
+# 北京聚通宝科技有限公司
+include:jutongbao
 
 
 # The following domains are carried over from geosite:cn.
@@ -952,7 +985,6 @@ lawxp.com
 leangoo.com
 leanote.com
 ledu.com
-leetcode-cn.com
 leikeji.com
 leiphone.com
 leiting.com
@@ -1082,7 +1114,6 @@ p5w.net
 paipaibang.com
 paopaoche.net
 pc6.com
-pcbeta.com
 pchome.net
 pcpop.com
 peccn.com
@@ -1477,3 +1508,14 @@ dancf.com
 
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 kujiale.com
+
+# 文叔叔 成都字节星云科技有限公司 蜀ICP备19024011号
+wss.zone
+
+hisensehitachi.com #海信日立官网
+
+#仟寻招聘
+moseeker.com
+
+# 东郊到家
+include:dongjiao

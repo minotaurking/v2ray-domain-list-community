@@ -187,6 +187,7 @@ include:hcaptcha
 include:heroku
 include:hurricaneelectric
 include:iina
+include:imageglass
 include:infrapedia
 include:inoreader
 include:isgd
@@ -210,6 +211,7 @@ include:pastebin
 include:patreon
 include:picsee
 include:pingpe
+include:pingsx
 include:playcover
 include:protonmail
 include:quip
@@ -252,6 +254,11 @@ overleaf.com
 
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 auroraoss.com
+
+# CookiePro, provides cookies and tracking
+cookiepro.com
+cookielaw.org
+onetrust.com
 
 # Software development
 include:category-dev
