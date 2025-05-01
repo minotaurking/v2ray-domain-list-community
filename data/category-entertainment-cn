@@ -4,6 +4,7 @@ include:4399
 include:acfun
 include:acplay
 include:ali213
+include:bestv
 include:bilibili
 include:ciweimao
 include:cowlevel
@@ -11,6 +12,7 @@ include:dedao
 include:dmzj
 include:douyu
 include:duitang
+include:fqnovel
 include:gamersky
 include:gcores
 include:gitv
@@ -30,6 +32,7 @@ include:miaopai
 include:mihoyo-cn
 include:muwai
 include:pptv
+include:qimao
 include:qingtingfm
 include:sfacg
 include:taomee
@@ -37,6 +40,7 @@ include:tgbus
 include:tiancity
 include:u17
 include:vgtime
+include:wasu
 include:xd
 include:ximalaya
 include:youku
@@ -49,6 +53,9 @@ steampp.net
 # Android Emulator
 lsplayer.com
 yeshen.com
+
+# 九九互动 粤ICP备19068416号
+forevernine.com
 
 ledu.com
 pearvideo.com
