@@ -1,3 +1,5 @@
+include:picacg-ads
+
 bikaa.xyz
 bikac.xyz
 bikaios.xyz
@@ -8,3 +10,7 @@ picacn.xyz
 picacomic.com
 picacomic.xyz
 wikawika.xyz
+
+# Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
+diwodiwo.xyz
+

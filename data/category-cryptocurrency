@@ -11,15 +11,17 @@ include:ethereum
 include:gateio
 include:huobi
 include:kraken
+include:kucoin
 include:localbitcoins
 include:nexo
 include:okx
 include:onekey
+include:redotpay
+include:straitsx
+include:trustwallet
 include:wisekey
 include:wynd
 include:zb
-include:kucoin
-include:redotpay
 
 1inch.io
 aave.com
@@ -52,6 +54,7 @@ dogecoin.com
 dydx.exchange
 fundingrates.xyz
 gemini.com
+guardarian.com
 hashflow.com
 infura.io
 invity.io
@@ -66,6 +69,7 @@ paxful.com
 polymarket.com
 ripple.com
 satoshilabs.com
+stealthex.io
 theblock.co
 trezor.io
 truefi.io

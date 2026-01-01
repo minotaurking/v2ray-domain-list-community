@@ -12,11 +12,12 @@ include:atom-data-ads
 include:baidu-ads
 include:bytedance-ads
 include:category-ads-ir
-include:clearbitjs-ads
+include:clearbit-ads
 include:dmm-ads
 include:duolingo-ads
 include:emogi-ads
 include:flurry-ads
+include:github-ads
 include:google-ads
 include:growingio-ads
 include:hiido-ads
@@ -27,17 +28,17 @@ include:iqiyi-ads
 include:jd-ads
 include:kuaishou-ads
 include:kugou-ads
-include:leanplum-ads
 include:letv-ads
-include:mixpanel-ads
+include:meta-ads
+include:microsoft-ads
 include:mopub-ads
 include:mxplayer-ads
 include:netease-ads
 include:newrelic-ads
 include:ogury-ads
-include:onesignal-ads
 include:ookla-speedtest-ads
 include:openx-ads
+include:picacg-ads
 include:pocoiq-ads
 include:pubmatic-ads
 include:qihoo360-ads
@@ -54,15 +55,14 @@ include:tencent-ads
 include:uberads-ads
 include:umeng-ads
 include:unity-ads
-include:wteam-ads
 include:xhamster-ads
 include:xiaomi-ads
 include:ximalaya-ads
 include:yahoo-ads
-include:youku-ads
-include:zynga-ads
+include:zhihu-ads
 
 # Other domains for ads serving
+51.la
 51y5.net
 a.adtng.com
 aaxads.com
@@ -72,6 +72,7 @@ ad.wang502.com
 adbutter.net
 addthisedge.com
 ads.trafficjunky.net
+ads.wteam.xyz
 adtechus.com
 adtrue.com
 adxprtz.com
@@ -80,6 +81,7 @@ cdn.banclip.com
 cfts1tifqr.com
 contentabc.com
 cretgate.com
+decide.mixpanel.com
 ero-advertising.com
 eroadvertising.com
 exoclick.com
@@ -92,15 +94,16 @@ img-bss.csdn.net
 imglnkc.com
 imglnkd.com
 innovid.com
-ja2.gamersky.com
 jads.co
 jl3.yjaxa.top
 juicyads.com
 kepler-37b.com
+leanplum.com
 lqc006.com
 moat.com
 moatads.com
 mobwithad.com
+onesignal.com
 realsrv.com
 s4yxaqyq95.com
 shhs-ydd8x2.yjrmss.cn
@@ -175,3 +178,21 @@ iabchina.cn
 # 卓信id
 zxid-api.mobileservice.cn
 zxid-m.mobileservice.cn
+
+# 深演智能
+ipinyou.com
+ipinyou.com.cn
+
+# 智云众 OptAim
+optaim.com
+
+# 加和科技 AddNewer
+reachmax.cn
+
+# 热云数据
+reyun.com
+
+# 诸葛io
+zhugeapi.com
+zhugeapi.net
+zhugeio.com

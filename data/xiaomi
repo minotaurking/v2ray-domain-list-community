@@ -1,15 +1,17 @@
 include:xiaomi-ads
+include:xiaomi-ai
 
+mgslb.com
+mi-idc.com
 mi-img.com
 mi.com
 mifile.cn
-migames.com
 mijia.tech
+mitvos.com
 miui.com
 miwifi.com
 xiaomi.cn
 xiaomi.com
-xiaomi.eu
 xiaomi.net
 xiaomicp.com
 xiaomidns.cn
@@ -30,6 +32,10 @@ xiaomisa.net
 xiaomisa.org
 xiaomiwear.com
 xiaomixiaoai.com
+
+# 北京瓦力网络科技
+migames.com
+wali.com
 
 # 天星数科
 airstarfinance.net
