@@ -368,7 +368,6 @@ nextstop.com
 online-deals.net
 opencreate.org
 reachtheworldonfacebook.com
-rocksdb.org
 shopfacebook.com
 sportsfacebook.com
 sportstream.com
@@ -395,3 +394,8 @@ workplace.com
 workplaceusecases.com
 
 full:fbcdn-a.akamaihd.net
+
+# Ads/tracking
+analytics.facebook.com @ads
+facebookads.com @ads
+pixel.facebook.com @ads

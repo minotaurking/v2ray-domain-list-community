@@ -1,5 +1,3 @@
-include:jd-ads
-
 1huizhan.com
 3.cn
 300hu.com
@@ -12,6 +10,7 @@ include:jd-ads
 7fresh.com
 baitiao.com
 blackdragon.com
+buyjingxi.com
 caiyu.com
 chicalot.cn
 chinabank.com.cn
@@ -180,6 +179,7 @@ jdcloudwaf.com
 jddapeigou.com
 jddebug.com
 jddglobal.com
+jddj.com
 jdemall.com
 jdfw1.com
 jdgslb.com
@@ -196,6 +196,7 @@ jdwl.com
 jdx.com
 jhscm.com
 jingdong.com
+jingdonghealth.cn
 jingdongjinrong.com
 jingpinhui.com
 jingxi.com
@@ -236,3 +237,13 @@ imdada.cn
 
 # 哆啦宝
 duolabao.com
+
+# Ads/tracking
+ads-union.jd.com @ads
+ads.union.jd.com @ads
+c-nfa.jd.com @ads
+cps.360buy.com @ads
+gia.jd.com @ads
+img-x.jd.com @ads
+jzt.jd.com @ads
+stat.m.jd.com @ads
